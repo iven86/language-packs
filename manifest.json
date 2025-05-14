@@ -6,6 +6,10 @@
       "name": "German-Arabic Basics",
       "version": "1.0.0",
       "languages": ["DE", "AR"],
+      "flag_urls": {
+        "DE": "https://raw.githubusercontent.com/iven86/language-packs/main/flags/de.png",
+        "AR": "https://raw.githubusercontent.com/iven86/language-packs/main/flags/ar.png"
+        },
       "size": 245,
       "download_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-AR/content.json",
       "metadata_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-AR/metadata.json",
@@ -16,6 +20,10 @@
       "name": "German-English Basics",
       "version": "1.0.0",
       "languages": ["DE", "EN"],
+      "flag_urls": {
+        "DE": "https://raw.githubusercontent.com/iven86/language-packs/main/flags/de.png",
+        "AR": "https://raw.githubusercontent.com/iven86/language-packs/main/flags/en.png"
+        },
       "size": 220,
       "download_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-EN/content.json",
       "metadata_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-EN/metadata.json",
