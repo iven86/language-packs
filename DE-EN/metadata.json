@@ -8,14 +8,16 @@
     "ios": 12
   },
   "tags": ["A1", "German", "English"],
+  "source_language": "DE",
+  "target_language": "EN",
   "direction": "ltr",
   "language": "en",
   "locale": "en_US",
   "font_family": "Roboto",
   "special_characters": ["Ä", "Ö", "Ü", "ß"],
   "description": "German-English Basic Vocabulary",
-  "description_de": "Deutsch-Englischer Grundwortschatz",
+  "description_en": "German-English Basic Vocabulary",
   "download_url": "https://raw.githubusercontent.com/yourrepo/language-packs/main/DE-EN/content.json",
   "metadata_url": "https://raw.githubusercontent.com/yourrepo/language-packs/main/DE-EN/metadata.json",
-  "checksum": "28185ba90562596eb7e37d60d1958259a0ec067e6b531c8b2b70eb149b427c62"
+  "checksum": "3e4cd9504fa91bcddb1b72126ad607732e0b67601ee202a571290d8693a111c1"
 }

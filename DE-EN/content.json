@@ -1,321 +1,278 @@
 {
   "id": "de_en_A1",
+  "name": "German-English A1",
+  "description": "Learn basic German with English translations",
+  "source_language": "DE",
+  "target_language": "EN",
+  "version": "1.0.0",
   "categories": [
     {
-      "name": "Basics",
-      "color": "#FF5733",
-      "packs": [
+      "name": "Basics - Greetings",
+      "colorCode": "#FF5733",
+      "cards": [
         {
-          "name": "Greetings",
-          "flashcards": [
-            {
-              "front": "Hallo",
-              "back": "Hello",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Guten Morgen",
-              "back": "Good morning",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Guten Abend",
-              "back": "Good evening",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Gute Nacht",
-              "back": "Good night",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Tschüss",
-              "back": "Bye",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Auf Wiedersehen",
-              "back": "Goodbye",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Wie geht's?",
-              "back": "How are you?",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Mir geht's gut.",
-              "back": "I am fine.",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Danke.",
-              "back": "Thank you.",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Bitte.",
-              "back": "Please.",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Entschuldigung.",
-              "back": "Excuse me.",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Ich heiße...",
-              "back": "My name is...",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Ich komme aus...",
-              "back": "I come from...",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Ich spreche...",
-              "back": "I speak...",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Sprechen Sie Englisch?",
-              "back": "Do you speak English?",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Ich verstehe nicht.",
-              "back": "I don't understand.",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Könnten Sie das bitte wiederholen?",
-              "back": "Could you please repeat that?",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Ich bin verloren.",
-              "back": "I am lost.",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Haben Sie eine Karte?",
-              "back": "Do you have a map?",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Wo ist die Toilette?",
-              "back": "Where is the bathroom?",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Ich hätte gerne...",
-              "back": "I would like...",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Wie viel kostet das?",
-              "back": "How much does it cost?",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Haben Sie eine Empfehlung?",
-              "back": "Do you have a recommendation?",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Ich bin allergisch gegen...",
-              "back": "I am allergic to...",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Ich brauche Hilfe.",
-              "back": "I need help.",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            }
-          ]
+          "frontText": "Hallo",
+          "backText": "Hello",
+          "status": 0,
+          "audioUrl": ""
         },
         {
-          "name": "Common Phrases",
-          "flashcards": [
-            {
-              "front": "Ja",
-              "back": "Yes",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Nein",
-              "back": "No",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Vielleicht",
-              "back": "Maybe",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Ich weiß nicht.",
-              "back": "I don't know.",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            }
-          ]
+          "frontText": "Guten Morgen",
+          "backText": "Good morning",
+          "status": 0,
+          "audioUrl": ""
         },
         {
-          "name": "Numbers",
-          "flashcards": [
-            {
-              "front": "Eins",
-              "back": "One",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Zwei",
-              "back": "Two",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Drei",
-              "back": "Three",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Vier",
-              "back": "Four",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Fünf",
-              "back": "Five",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Sechs",
-              "back": "Six",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Sieben",
-              "back": "Seven",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Acht",
-              "back": "Eight",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Neun",
-              "back": "Nine",
-              "status": "learning",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Zehn",
-              "back": "Ten",
-              "status": "",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-          ]
+          "frontText": "Guten Abend",
+          "backText": "Good evening",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Gute Nacht",
+          "backText": "Good night",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Tschüss",
+          "backText": "Bye",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Auf Wiedersehen",
+          "backText": "Goodbye",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Wie geht's?",
+          "backText": "How are you?",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Mir geht's gut.",
+          "backText": "I am fine.",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Danke.",
+          "backText": "Thank you.",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Bitte.",
+          "backText": "Please.",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Entschuldigung.",
+          "backText": "Excuse me.",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Ich heiße...",
+          "backText": "My name is...",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Ich komme aus...",
+          "backText": "I come from...",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Ich spreche...",
+          "backText": "I speak...",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Sprechen Sie Englisch?",
+          "backText": "Do you speak English?",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Ich verstehe nicht.",
+          "backText": "I don't understand.",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Könnten Sie das bitte wiederholen?",
+          "backText": "Could you please repeat that?",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Ich bin verloren.",
+          "backText": "I am lost.",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Haben Sie eine Karte?",
+          "backText": "Do you have a map?",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Wo ist die Toilette?",
+          "backText": "Where is the bathroom?",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Ich hätte gerne...",
+          "backText": "I would like...",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Wie viel kostet das?",
+          "backText": "How much does it cost?",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Haben Sie eine Empfehlung?",
+          "backText": "Do you have a recommendation?",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Ich bin allergisch gegen...",
+          "backText": "I am allergic to...",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Ich brauche Hilfe.",
+          "backText": "I need help.",
+          "status": 0,
+          "audioUrl": ""
         }
       ]
     },
     {
-      "name": "Food & Drink",
-      "color": "#33FF57",
-      "packs": [
+      "name": "Basics - Common Phrases",
+      "colorCode": "#FF5733",
+      "cards": [
         {
-          "name": "Food Items",
-          "flashcards": [
-            {
-              "front": "Brot",
-              "back": "Bread",
-              "status": "",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            },
-            {
-              "front": "Wasser",
-              "back": "Water",
-              "status": "",
-              "last_reviewed": "2025-05-14",
-              "review_count": 0
-            }
-          ]
+          "frontText": "Ja",
+          "backText": "Yes",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Nein",
+          "backText": "No",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Vielleicht",
+          "backText": "Maybe",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Ich weiß nicht.",
+          "backText": "I don't know.",
+          "status": 0,
+          "audioUrl": ""
+        }
+      ]
+    },
+    {
+      "name": "Basics - Numbers",
+      "colorCode": "#FF5733",
+      "cards": [
+        {
+          "frontText": "Eins",
+          "backText": "One",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Zwei",
+          "backText": "Two",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Drei",
+          "backText": "Three",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Vier",
+          "backText": "Four",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Fünf",
+          "backText": "Five",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Sechs",
+          "backText": "Six",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Sieben",
+          "backText": "Seven",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Acht",
+          "backText": "Eight",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Neun",
+          "backText": "Nine",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Zehn",
+          "backText": "Ten",
+          "status": 0,
+          "audioUrl": ""
+        }
+      ]
+    },
+    {
+      "name": "Food & Drink - Food Items",
+      "colorCode": "#33FF57",
+      "cards": [
+        {
+          "frontText": "Brot",
+          "backText": "Bread",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Wasser",
+          "backText": "Water",
+          "status": 0,
+          "audioUrl": ""
         }
       ]
     }

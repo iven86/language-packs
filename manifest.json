@@ -22,12 +22,12 @@
       "languages": ["DE", "EN"],
       "flag_urls": {
         "DE": "https://raw.githubusercontent.com/iven86/language-packs/main/flags/de.png",
-        "AR": "https://raw.githubusercontent.com/iven86/language-packs/main/flags/en.png"
+        "EN": "https://raw.githubusercontent.com/iven86/language-packs/main/flags/en.png"
         },
       "size": 220,
       "download_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-EN/content.json",
       "metadata_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-EN/metadata.json",
-      "checksum": "28185ba90562596eb7e37d60d1958259a0ec067e6b531c8b2b70eb149b427c62"
+      "checksum": "3e4cd9504fa91bcddb1b72126ad607732e0b67601ee202a571290d8693a111c1"
     }
   ]
 }
