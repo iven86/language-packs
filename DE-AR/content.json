@@ -2,8 +2,8 @@
   "id": "de_ar_A1",
   "name": "German-Arabic A1",
   "description": "Learn basic German with Arabic translations",
-  "source_language": "German",
-  "target_language": "Arabic",
+  "source_language": "DE",
+  "target_language": "AR",
   "version": "1.0.0",
   "categories": [
     {
