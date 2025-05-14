@@ -13,7 +13,7 @@
       "size": 245,
       "download_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-AR/content.json",
       "metadata_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-AR/metadata.json",
-      "checksum": "ad76379bdc82c0a2c5e2d6c2bcda81fa2652ce3242ab80f312cc6dfcddc262ab"
+      "checksum": "f9fa8238864322082f20691367eedeb8d14e1c11963476534ec7069d3b1b0dff"
     },
     {
       "pack_id": "de_en_A1",
@@ -27,7 +27,7 @@
       "size": 220,
       "download_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-EN/content.json",
       "metadata_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-EN/metadata.json",
-      "checksum": "03651542702ba23ec27e2be9970d7b99eb62b22ab3762096480d86b3b123b0a1"
+      "checksum": "28185ba90562596eb7e37d60d1958259a0ec067e6b531c8b2b70eb149b427c62"
     }
   ]
 }
