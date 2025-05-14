@@ -1,0 +1,324 @@
+{
+  "id": "de_ar_A1",
+  "categories": [
+    {
+      "name": "أساسيات",
+      "color": "#FF5733",
+      "packs": [
+        {
+          "name": "تحيات",
+          "flashcards": [
+            {
+              "front": "Hallo",
+              "back": "مرحبا",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Guten Morgen",
+              "back": "صباح الخير",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Guten Abend",
+              "back": "مساء الخير",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Gute Nacht",
+              "back": "تصبح على خير",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Tschüss",
+              "back": "مع السلامة",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Auf Wiedersehen",
+              "back": "إلى اللقاء",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Wie geht's?",
+              "back": "كيف الحال؟",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Mir geht's gut.",
+              "back": "أنا بخير",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Danke.",
+              "back": "شكرا",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Bitte.",
+              "back": "من فضلك",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Entschuldigung.",
+              "back": "إسمح لي",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Ich heiße...",
+              "back": "اسمي هو...",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Ich komme aus...",
+              "back": "أنا من...",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Ich spreche...",
+              "back": "أنا أتكلم...",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Sprechen Sie Englisch?",
+              "back": "هل تتكلم الإنجليزية؟",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Ich verstehe nicht.",
+              "back": "أنا لا أفهم",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Könnten Sie das bitte wiederholen?",
+              "back": "هل يمكنك تكرار ذلك من فضلك؟",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Ich bin verloren.",
+              "back": "أنا ضائع",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Haben Sie eine Karte?",
+              "back": "هل لديك خريطة؟",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Wo ist die Toilette?",
+              "back": "أين الحمام؟",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Ich hätte gerne...",
+              "back": "أود...",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Wie viel kostet das?",
+              "back": "كم ثمن هذا؟",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Haben Sie eine Empfehlung?",
+              "back": "هل لديك توصية؟",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Ich bin allergisch gegen...",
+              "back": "أنا أعاني من حساسية تجاه...",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Ich brauche Hilfe.",
+              "back": "أحتاج إلى مساعدة",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            }
+          ]
+        },
+        {
+          "name": "عبارات شائعة",
+          "flashcards": [
+            {
+              "front": "Ja",
+              "back": "نعم",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Nein",
+              "back": "لا",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Vielleicht",
+              "back": "ربما",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Ich weiß nicht.",
+              "back": "لا أعرف",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            }
+          ]
+        },
+        {
+          "name": "أرقام",
+          "flashcards": [
+            {
+              "front": "Eins",
+              "back": "واحد",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Zwei",
+              "back": "اثنان",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Drei",
+              "back": "ثلاثة",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Vier",
+              "back": "أربعة",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Fünf",
+              "back": "خمسة",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Sechs",
+              "back": "ستة",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Sieben",
+              "back": "سبعة",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Acht",
+              "back": "ثمانية",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Neun",
+              "back": "تسعة",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Zehn",
+              "back": "عشرة",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "طعام وشراب",
+      "color": "#33FF57",
+      "packs": [
+        {
+          "name": "أصناف الطعام",
+          "flashcards": [
+            {
+              "front": "Brot",
+              "back": "خبز",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Wasser",
+              "back": "ماء",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

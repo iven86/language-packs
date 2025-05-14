@@ -1,0 +1,25 @@
+{
+  "last_updated": "2023-07-25T10:00:00Z",
+  "packs": [
+    {
+      "pack_id": "de_ar_A1",
+      "name": "German-Arabic Basics",
+      "version": "1.0.0",
+      "languages": ["DE", "AR"],
+      "size": 245,
+      "download_url": "https://raw.githubusercontent.com/yourrepo/language-packs/main/DE-AR/content.json",
+      "metadata_url": "https://raw.githubusercontent.com/yourrepo/language-packs/main/DE-AR/metadata.json",
+      "checksum": "ad76379bdc82c0a2c5e2d6c2bcda81fa2652ce3242ab80f312cc6dfcddc262ab"
+    },
+    {
+      "pack_id": "de_en_A1",
+      "name": "German-English Basics",
+      "version": "1.0.0",
+      "languages": ["DE", "EN"],
+      "size": 220,
+      "download_url": "https://raw.githubusercontent.com/yourrepo/language-packs/main/DE-EN/content.json",
+      "metadata_url": "https://raw.githubusercontent.com/yourrepo/language-packs/main/DE-EN/metadata.json",
+      "checksum": "03651542702ba23ec27e2be9970d7b99eb62b22ab3762096480d86b3b123b0a1"
+    }
+  ]
+}

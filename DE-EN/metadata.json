@@ -1,0 +1,21 @@
+{
+  "pack_id": "de_en_A1",
+  "version": "1.0.0",
+  "author": "Your Company",
+  "min_app_version": "1.0.0",
+  "compatibility": {
+    "android": 8,
+    "ios": 12
+  },
+  "tags": ["A1", "German", "English"],
+  "direction": "ltr",
+  "language": "en",
+  "locale": "en_US",
+  "font_family": "Roboto",
+  "special_characters": ["Ä", "Ö", "Ü", "ß"],
+  "description": "German-English Basic Vocabulary",
+  "description_de": "Deutsch-Englischer Grundwortschatz",
+  "download_url": "https://raw.githubusercontent.com/yourrepo/language-packs/main/DE-EN/content.json",
+  "metadata_url": "https://raw.githubusercontent.com/yourrepo/language-packs/main/DE-EN/metadata.json",
+  "checksum": "e5f6a1b2c3d4..."
+}

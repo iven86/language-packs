@@ -1,0 +1,323 @@
+{
+  "id": "de_en_A1",
+  "categories": [
+    {
+      "name": "Basics",
+      "color": "#FF5733",
+      "packs": [
+        {
+          "name": "Greetings",
+          "flashcards": [
+            {
+              "front": "Hallo",
+              "back": "Hello",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Guten Morgen",
+              "back": "Good morning",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Guten Abend",
+              "back": "Good evening",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Gute Nacht",
+              "back": "Good night",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Tschüss",
+              "back": "Bye",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Auf Wiedersehen",
+              "back": "Goodbye",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Wie geht's?",
+              "back": "How are you?",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Mir geht's gut.",
+              "back": "I am fine.",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Danke.",
+              "back": "Thank you.",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Bitte.",
+              "back": "Please.",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Entschuldigung.",
+              "back": "Excuse me.",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Ich heiße...",
+              "back": "My name is...",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Ich komme aus...",
+              "back": "I come from...",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Ich spreche...",
+              "back": "I speak...",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Sprechen Sie Englisch?",
+              "back": "Do you speak English?",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Ich verstehe nicht.",
+              "back": "I don't understand.",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Könnten Sie das bitte wiederholen?",
+              "back": "Could you please repeat that?",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Ich bin verloren.",
+              "back": "I am lost.",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Haben Sie eine Karte?",
+              "back": "Do you have a map?",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Wo ist die Toilette?",
+              "back": "Where is the bathroom?",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Ich hätte gerne...",
+              "back": "I would like...",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Wie viel kostet das?",
+              "back": "How much does it cost?",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Haben Sie eine Empfehlung?",
+              "back": "Do you have a recommendation?",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Ich bin allergisch gegen...",
+              "back": "I am allergic to...",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Ich brauche Hilfe.",
+              "back": "I need help.",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            }
+          ]
+        },
+        {
+          "name": "Common Phrases",
+          "flashcards": [
+            {
+              "front": "Ja",
+              "back": "Yes",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Nein",
+              "back": "No",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Vielleicht",
+              "back": "Maybe",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Ich weiß nicht.",
+              "back": "I don't know.",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            }
+          ]
+        },
+        {
+          "name": "Numbers",
+          "flashcards": [
+            {
+              "front": "Eins",
+              "back": "One",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Zwei",
+              "back": "Two",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Drei",
+              "back": "Three",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Vier",
+              "back": "Four",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Fünf",
+              "back": "Five",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Sechs",
+              "back": "Six",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Sieben",
+              "back": "Seven",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Acht",
+              "back": "Eight",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Neun",
+              "back": "Nine",
+              "status": "learning",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Zehn",
+              "back": "Ten",
+              "status": "",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Food & Drink",
+      "color": "#33FF57",
+      "packs": [
+        {
+          "name": "Food Items",
+          "flashcards": [
+            {
+              "front": "Brot",
+              "back": "Bread",
+              "status": "",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            },
+            {
+              "front": "Wasser",
+              "back": "Water",
+              "status": "",
+              "last_reviewed": "2025-05-14",
+              "review_count": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
