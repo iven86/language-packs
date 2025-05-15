@@ -255,6 +255,66 @@
           "backText": "عشرة",
           "status": 0,
           "audioUrl": ""
+        },
+        {
+          "frontText": "Erste/r",
+          "backText": "الأول",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Zweite/r",
+          "backText": "الثاني",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Dritte/r",
+          "backText": "الثالث",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Vierte/r",
+          "backText": "الرابع",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Fünfte/r",
+          "backText": "الخامس",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Sechste/r",
+          "backText": "السادس",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Siebte/r",
+          "backText": "السابع",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Achte/r",
+          "backText": "الثامن",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Neunte/r",
+          "backText": "التاسع",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Zehnte/r",
+          "backText": "العاشر",
+          "status": 0,
+          "audioUrl": ""
         }
       ]
     },

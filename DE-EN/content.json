@@ -255,6 +255,66 @@
           "backText": "Ten",
           "status": 0,
           "audioUrl": ""
+        },
+        {
+          "frontText": "Erste/r",
+          "backText": "First",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Zweite/r",
+          "backText": "Second",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Dritte/r",
+          "backText": "Third",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Vierte/r",
+          "backText": "Fourth",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Fünfte/r",
+          "backText": "Fifth",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Sechste/r",
+          "backText": "Sixth",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Siebte/r",
+          "backText": "Seventh",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Achte/r",
+          "backText": "Eighth",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Neunte/r",
+          "backText": "Ninth",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Zehnte/r",
+          "backText": "Tenth",
+          "status": 0,
+          "audioUrl": ""
         }
       ]
     },
