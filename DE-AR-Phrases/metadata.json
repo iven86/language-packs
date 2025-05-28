@@ -1,0 +1,22 @@
+{
+  "pack_id": "de_ar_phrases",
+  "version": "1.0.0",
+  "author": "FlashCard Team",
+  "min_app_version": "1.0.0",
+  "compatibility": {
+    "android": 8,
+    "ios": 12
+  },
+  "tags": ["A2", "B1", "German", "Arabic", "Conversational", "Phrases"],
+  "source_language": "DE",
+  "target_language": "AR",
+  "direction": "rtl",
+  "language": "ar",
+  "locale": "ar_AE",
+  "font_family": "NotoNaskhArabic",
+  "special_characters": ["ء", "آ", "أ", "ؤ", "Ä", "Ö", "Ü", "ß"],
+  "description": "عبارات المحادثة الألمانية-العربية للمواقف اليومية",
+  "description_en": "German-Arabic Conversational Phrases for everyday situations",
+  "download_url": "https://raw.githubusercontent.com/iven86/language-packs/main/DE-AR-Phrases/content.json",
+  "metadata_url": "https://raw.githubusercontent.com/iven86/language-packs/main/DE-AR-Phrases/metadata.json"
+}

@@ -1,0 +1,328 @@
+{
+  "id": "de_en_phrases",
+  "name": "German-English Conversational Phrases",
+  "description": "Learn conversational German phrases with English translations",
+  "source_language": "DE",
+  "target_language": "EN",
+  "version": "1.0.0",
+  "categories": [
+    {
+      "name": "Home & Personal",
+      "colorCode": "#FF6B35",
+      "cards": [
+        {
+          "frontText": "ich bin zu Hause",
+          "backText": "I am at home",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "ich wurde ausgeraubt",
+          "backText": "I was robbed",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "das ist es nicht wert",
+          "backText": "it's not worth it",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "ich werde heiraten",
+          "backText": "I will get married",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "ich habe den ganzen Tag gearbeitet",
+          "backText": "I worked all day",
+          "status": 0,
+          "audioUrl": ""
+        }
+      ]
+    },
+    {
+      "name": "Questions & Responses",
+      "colorCode": "#4ECDC4",
+      "cards": [
+        {
+          "frontText": "willst du wissen warum",
+          "backText": "do you want to know why",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "wirst du ihn anrufen",
+          "backText": "will you call him",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "wie konntest du das zulassen",
+          "backText": "how could you allow that",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "habe ich etwas verpasst",
+          "backText": "did I miss something",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "wie viele willst du",
+          "backText": "how many do you want",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "wie komme ich zum Flughafen",
+          "backText": "how do I get to the airport",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "wovon redest du eigentlich",
+          "backText": "what are you actually talking about",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "wie oft liest du Bücher",
+          "backText": "how often do you read books",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "was ist passiert",
+          "backText": "what happened",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "was ist los",
+          "backText": "what's wrong",
+          "status": 0,
+          "audioUrl": ""
+        }
+      ]
+    },
+    {
+      "name": "Relationships & Social",
+      "colorCode": "#45B7D1",
+      "cards": [
+        {
+          "frontText": "du bist nicht nett",
+          "backText": "you are not nice",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "er ist mein bester Freund",
+          "backText": "he is my best friend",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "du bist mein Freund",
+          "backText": "you are my friend",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "ich würde dich gerne wiedersehen",
+          "backText": "I would like to see you again",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "du machst mich glücklich",
+          "backText": "you make me happy",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "du bist so süß",
+          "backText": "you are so sweet",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "du bist sehr nett",
+          "backText": "you are very nice",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "schön dich kennenzulernen",
+          "backText": "nice to meet you",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "küss mich",
+          "backText": "kiss me",
+          "status": 0,
+          "audioUrl": ""
+        }
+      ]
+    },
+    {
+      "name": "Emotions & Reactions",
+      "colorCode": "#96CEB4",
+      "cards": [
+        {
+          "frontText": "das ist verrückt",
+          "backText": "that's crazy",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "ich kann es nicht glauben",
+          "backText": "I can't believe it",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "das gibt's doch nicht",
+          "backText": "that can't be true",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "sei glücklich",
+          "backText": "be happy",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "lächle",
+          "backText": "smile",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "jetzt bin ich deprimiert",
+          "backText": "now I'm depressed",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "das ist so toll",
+          "backText": "that's so great",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "oh das ist toll",
+          "backText": "oh that's great",
+          "status": 0,
+          "audioUrl": ""
+        }
+      ]
+    },
+    {
+      "name": "Commands & Requests",
+      "colorCode": "#FFEAA7",
+      "cards": [
+        {
+          "frontText": "hör auf damit",
+          "backText": "stop it",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "mach die Tür auf",
+          "backText": "open the door",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "sag es ihm",
+          "backText": "tell him",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "probier diese Suppe",
+          "backText": "try this soup",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "schau nicht hin",
+          "backText": "don't look",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "beeil dich",
+          "backText": "hurry up",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "bring ihn zu mir zurück",
+          "backText": "bring him back to me",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "sieh dir das an",
+          "backText": "look at that",
+          "status": 0,
+          "audioUrl": ""
+        }
+      ]
+    },
+    {
+      "name": "Daily Life & Practical",
+      "colorCode": "#DDA0DD",
+      "cards": [
+        {
+          "frontText": "ich werde eine Pizza bestellen",
+          "backText": "I will order a pizza",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "ich kann dir meine Nummer nicht geben",
+          "backText": "I can't give you my number",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "ich muss arbeiten",
+          "backText": "I have to work",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "ich muss zur Arbeit gehen",
+          "backText": "I have to go to work",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "kann ich dein Telefon benutzen",
+          "backText": "can I use your phone",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "ich möchte auf die Toilette gehen",
+          "backText": "I want to go to the bathroom",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "kein Problem",
+          "backText": "no problem",
+          "status": 0,
+          "audioUrl": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pack_id": "de_en_phrases",
+  "version": "1.0.0",
+  "author": "FlashCard Team",
+  "min_app_version": "1.0.0",
+  "compatibility": {
+    "android": 8,
+    "ios": 12
+  },
+  "tags": ["A2", "B1", "German", "English", "Conversational", "Phrases"],
+  "source_language": "DE",
+  "target_language": "EN",
+  "direction": "ltr",
+  "language": "en",
+  "locale": "en_US",
+  "font_family": "Roboto",
+  "special_characters": ["Ä", "Ö", "Ü", "ß"],
+  "description": "German-English Conversational Phrases for everyday situations",
+  "description_en": "German-English Conversational Phrases for everyday situations",
+  "download_url": "https://raw.githubusercontent.com/iven86/language-packs/main/DE-EN-Phrases/content.json",
+  "metadata_url": "https://raw.githubusercontent.com/iven86/language-packs/main/DE-EN-Phrases/metadata.json"
+}

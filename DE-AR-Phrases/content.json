@@ -1,0 +1,328 @@
+{
+  "id": "de_ar_phrases",
+  "name": "German-Arabic Conversational Phrases",
+  "description": "تعلم العبارات المحادثة الألمانية مع الترجمات العربية",
+  "source_language": "DE",
+  "target_language": "AR",
+  "version": "1.0.0",
+  "categories": [
+    {
+      "name": "المنزل والشخصية",
+      "colorCode": "#FF6B35",
+      "cards": [
+        {
+          "frontText": "ich bin zu Hause",
+          "backText": "أنا في المنزل",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "ich wurde ausgeraubt",
+          "backText": "تم سرقتي",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "das ist es nicht wert",
+          "backText": "لا يستحق الأمر",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "ich werde heiraten",
+          "backText": "سأتزوج",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "ich habe den ganzen Tag gearbeitet",
+          "backText": "عملت طوال اليوم",
+          "status": 0,
+          "audioUrl": ""
+        }
+      ]
+    },
+    {
+      "name": "أسئلة وردود",
+      "colorCode": "#4ECDC4",
+      "cards": [
+        {
+          "frontText": "willst du wissen warum",
+          "backText": "هل تريد أن تعرف لماذا",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "wirst du ihn anrufen",
+          "backText": "هل ستتصل به",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "wie konntest du das zulassen",
+          "backText": "كيف سمحت بذلك",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "habe ich etwas verpasst",
+          "backText": "هل فوتت شيئاً",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "wie viele willst du",
+          "backText": "كم تريد",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "wie komme ich zum Flughafen",
+          "backText": "كيف أصل إلى المطار",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "wovon redest du eigentlich",
+          "backText": "عن ماذا تتحدث بالفعل",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "wie oft liest du Bücher",
+          "backText": "كم مرة تقرأ الكتب",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "was ist passiert",
+          "backText": "ماذا حدث",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "was ist los",
+          "backText": "ما الأمر",
+          "status": 0,
+          "audioUrl": ""
+        }
+      ]
+    },
+    {
+      "name": "العلاقات والاجتماعية",
+      "colorCode": "#45B7D1",
+      "cards": [
+        {
+          "frontText": "du bist nicht nett",
+          "backText": "أنت لست لطيفاً",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "er ist mein bester Freund",
+          "backText": "إنه أفضل صديق لي",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "du bist mein Freund",
+          "backText": "أنت صديقي",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "ich würde dich gerne wiedersehen",
+          "backText": "أود أن أراك مرة أخرى",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "du machst mich glücklich",
+          "backText": "أنت تجعلني سعيداً",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "du bist so süß",
+          "backText": "أنت لطيف جداً",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "du bist sehr nett",
+          "backText": "أنت لطيف جداً",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "schön dich kennenzulernen",
+          "backText": "سعيد بلقائك",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "küss mich",
+          "backText": "قبلني",
+          "status": 0,
+          "audioUrl": ""
+        }
+      ]
+    },
+    {
+      "name": "المشاعر والردود",
+      "colorCode": "#96CEB4",
+      "cards": [
+        {
+          "frontText": "das ist verrückt",
+          "backText": "هذا مجنون",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "ich kann es nicht glauben",
+          "backText": "لا أستطيع تصديق ذلك",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "das gibt's doch nicht",
+          "backText": "هذا غير ممكن",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "sei glücklich",
+          "backText": "كن سعيداً",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "lächle",
+          "backText": "ابتسم",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "jetzt bin ich deprimiert",
+          "backText": "الآن أنا مكتئب",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "das ist so toll",
+          "backText": "هذا رائع جداً",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "oh das ist toll",
+          "backText": "أوه هذا رائع",
+          "status": 0,
+          "audioUrl": ""
+        }
+      ]
+    },
+    {
+      "name": "أوامر وطلبات",
+      "colorCode": "#FFEAA7",
+      "cards": [
+        {
+          "frontText": "hör auf damit",
+          "backText": "توقف عن ذلك",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "mach die Tür auf",
+          "backText": "افتح الباب",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "sag es ihm",
+          "backText": "قل له",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "probier diese Suppe",
+          "backText": "جرب هذا الحساء",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "schau nicht hin",
+          "backText": "لا تنظر",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "beeil dich",
+          "backText": "أسرع",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "bring ihn zu mir zurück",
+          "backText": "أعده إلي",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "sieh dir das an",
+          "backText": "انظر إلى ذلك",
+          "status": 0,
+          "audioUrl": ""
+        }
+      ]
+    },
+    {
+      "name": "الحياة اليومية والعملية",
+      "colorCode": "#DDA0DD",
+      "cards": [
+        {
+          "frontText": "ich werde eine Pizza bestellen",
+          "backText": "سأطلب بيتزا",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "ich kann dir meine Nummer nicht geben",
+          "backText": "لا أستطيع إعطاءك رقمي",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "ich muss arbeiten",
+          "backText": "يجب أن أعمل",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "ich muss zur Arbeit gehen",
+          "backText": "يجب أن أذهب إلى العمل",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "kann ich dein Telefon benutzen",
+          "backText": "هل يمكنني استخدام هاتفك",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "ich möchte auf die Toilette gehen",
+          "backText": "أريد الذهاب إلى الحمام",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "kein Problem",
+          "backText": "لا مشكلة",
+          "status": 0,
+          "audioUrl": ""
+        }
+      ]
+    }
+  ]
+}

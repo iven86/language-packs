@@ -1,35 +1,77 @@
 {
-  "last_updated": "2023-07-25T10:00:00Z",
+  "last_updated": "2025-05-28T00:08:23Z",
   "packs": [
     {
       "pack_id": "de_ar_A1",
       "name": "German-Arabic Basics",
       "version": "1.0.1",
-      "languages": ["DE", "AR"],
+      "languages": [
+        "DE",
+        "AR"
+      ],
       "flag_urls": {
         "DE": "https://raw.githubusercontent.com/iven86/language-packs/main/flags/de.png",
         "AR": "https://raw.githubusercontent.com/iven86/language-packs/main/flags/ar.png"
-        },
+      },
       "size": 51,
-      "fileSize": 6840,
+      "fileSize": 8259,
       "download_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-AR/content.json",
       "metadata_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-AR/metadata.json",
-      "checksum": "dfb4382cf737916f8e00ff58d2b9db9dc1f30ba285b9139ec0964a43ff2fe4de"
+      "checksum": "8947d229a568fc73ff11dfa55a9fcfadb0c4678bb7f8999e67aed78e2bd28350"
+    },
+    {
+      "pack_id": "de_ar_phrases",
+      "name": "German-Arabic Phrases",
+      "version": "1.0.0",
+      "languages": [
+        "DE",
+        "AR"
+      ],
+      "flag_urls": {
+        "DE": "https://raw.githubusercontent.com/iven86/language-packs/main/flags/de.png",
+        "AR": "https://raw.githubusercontent.com/iven86/language-packs/main/flags/ar.png"
+      },
+      "size": 47,
+      "fileSize": 8781,
+      "download_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-AR-Phrases/content.json",
+      "metadata_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-AR-Phrases/metadata.json",
+      "checksum": "5f423cea9f5b3dba603dc33a4c7d61f751aebafdba9da3a305fba7a5ecb5e978"
     },
     {
       "pack_id": "de_en_A1",
       "name": "German-English Basics",
       "version": "1.0.1",
-      "languages": ["DE", "EN"],
+      "languages": [
+        "DE",
+        "EN"
+      ],
       "flag_urls": {
         "DE": "https://raw.githubusercontent.com/iven86/language-packs/main/flags/de.png",
         "EN": "https://raw.githubusercontent.com/iven86/language-packs/main/flags/en.png"
-        },
+      },
       "size": 51,
-      "fileSize": 6550,
+      "fileSize": 7906,
       "download_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-EN/content.json",
       "metadata_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-EN/metadata.json",
-      "checksum": "0930700393308768b5d11ad7a942218bdc81c5b5fb9e94c5c8a5c61678604950"
+      "checksum": "abd04faf210341896a4ae23081896a60144de2feca7260379c27c3308a4c2393"
+    },
+    {
+      "pack_id": "de_en_phrases",
+      "name": "German-English Phrases",
+      "version": "1.0.0",
+      "languages": [
+        "DE",
+        "EN"
+      ],
+      "flag_urls": {
+        "DE": "https://raw.githubusercontent.com/iven86/language-packs/main/flags/de.png",
+        "EN": "https://raw.githubusercontent.com/iven86/language-packs/main/flags/en.png"
+      },
+      "size": 47,
+      "fileSize": 8368,
+      "download_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-EN-Phrases/content.json",
+      "metadata_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-EN-Phrases/metadata.json",
+      "checksum": "04e228e4c10ae56b7c7da5f2e491974286f7dab3b45d5543fea5d5de257e59fc"
     }
   ]
 }
