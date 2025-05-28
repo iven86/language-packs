@@ -4,7 +4,7 @@
   "description": "Learn basic German with Arabic translations",
   "source_language": "DE",
   "target_language": "AR",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "categories": [
     {
       "name": "أساسيات - تحيات",
@@ -331,6 +331,234 @@
         {
           "frontText": "Wasser",
           "backText": "ماء",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Milch",
+          "backText": "حليب",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Kaffee",
+          "backText": "قهوة",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Tee",
+          "backText": "شاي",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Bier",
+          "backText": "بيرة",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Wein",
+          "backText": "نبيذ",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Fleisch",
+          "backText": "لحم",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Hähnchen",
+          "backText": "دجاج",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Schweinefleisch",
+          "backText": "لحم خنزير",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Rindfleisch",
+          "backText": "لحم بقر",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Wurst",
+          "backText": "نقانق",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Bratwurst",
+          "backText": "براتفورست",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Käse",
+          "backText": "جبن",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Butter",
+          "backText": "زبدة",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Eier",
+          "backText": "بيض",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Fisch",
+          "backText": "سمك",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Kartoffeln",
+          "backText": "بطاطس",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Reis",
+          "backText": "أرز",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Nudeln",
+          "backText": "معكرونة",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Gemüse",
+          "backText": "خضروات",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Salat",
+          "backText": "سلطة/خس",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Tomaten",
+          "backText": "طماطم",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Zwiebeln",
+          "backText": "بصل",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Karotten",
+          "backText": "جزر",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Obst",
+          "backText": "فواكه",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Äpfel",
+          "backText": "تفاح",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Bananen",
+          "backText": "موز",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Orangen",
+          "backText": "برتقال",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Zucker",
+          "backText": "سكر",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Salz",
+          "backText": "ملح",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Pfeffer",
+          "backText": "فلفل أسود",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Öl",
+          "backText": "زيت",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Essig",
+          "backText": "خل",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Pizza",
+          "backText": "بيتزا",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Suppe",
+          "backText": "حساء",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Sandwich",
+          "backText": "ساندويتش",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Kuchen",
+          "backText": "كعكة",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Schokolade",
+          "backText": "شوكولاتة",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Eis",
+          "backText": "آيس كريم",
           "status": 0,
           "audioUrl": ""
         }

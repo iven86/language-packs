@@ -4,7 +4,7 @@
   "description": "Learn basic German with English translations",
   "source_language": "DE",
   "target_language": "EN",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "categories": [
     {
       "name": "Basics - Greetings",
@@ -331,6 +331,234 @@
         {
           "frontText": "Wasser",
           "backText": "Water",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Milch",
+          "backText": "Milk",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Kaffee",
+          "backText": "Coffee",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Tee",
+          "backText": "Tea",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Bier",
+          "backText": "Beer",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Wein",
+          "backText": "Wine",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Fleisch",
+          "backText": "Meat",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Hähnchen",
+          "backText": "Chicken",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Schweinefleisch",
+          "backText": "Pork",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Rindfleisch",
+          "backText": "Beef",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Wurst",
+          "backText": "Sausage",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Bratwurst",
+          "backText": "Bratwurst",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Käse",
+          "backText": "Cheese",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Butter",
+          "backText": "Butter",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Eier",
+          "backText": "Eggs",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Fisch",
+          "backText": "Fish",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Kartoffeln",
+          "backText": "Potatoes",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Reis",
+          "backText": "Rice",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Nudeln",
+          "backText": "Pasta/Noodles",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Gemüse",
+          "backText": "Vegetables",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Salat",
+          "backText": "Salad/Lettuce",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Tomaten",
+          "backText": "Tomatoes",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Zwiebeln",
+          "backText": "Onions",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Karotten",
+          "backText": "Carrots",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Obst",
+          "backText": "Fruit",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Äpfel",
+          "backText": "Apples",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Bananen",
+          "backText": "Bananas",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Orangen",
+          "backText": "Oranges",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Zucker",
+          "backText": "Sugar",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Salz",
+          "backText": "Salt",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Pfeffer",
+          "backText": "Pepper",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Öl",
+          "backText": "Oil",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Essig",
+          "backText": "Vinegar",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Pizza",
+          "backText": "Pizza",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Suppe",
+          "backText": "Soup",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Sandwich",
+          "backText": "Sandwich",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Kuchen",
+          "backText": "Cake",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Schokolade",
+          "backText": "Chocolate",
+          "status": 0,
+          "audioUrl": ""
+        },
+        {
+          "frontText": "Eis",
+          "backText": "Ice cream",
           "status": 0,
           "audioUrl": ""
         }

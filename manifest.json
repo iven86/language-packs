@@ -1,10 +1,10 @@
 {
-  "last_updated": "2025-05-28T00:08:23Z",
+  "last_updated": "2025-05-28T00:18:19Z",
   "packs": [
     {
       "pack_id": "de_ar_A1",
       "name": "German-Arabic Basics",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "languages": [
         "DE",
         "AR"
@@ -13,11 +13,11 @@
         "DE": "https://raw.githubusercontent.com/iven86/language-packs/main/flags/de.png",
         "AR": "https://raw.githubusercontent.com/iven86/language-packs/main/flags/ar.png"
       },
-      "size": 51,
-      "fileSize": 8259,
+      "size": 89,
+      "fileSize": 13495,
       "download_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-AR/content.json",
       "metadata_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-AR/metadata.json",
-      "checksum": "8947d229a568fc73ff11dfa55a9fcfadb0c4678bb7f8999e67aed78e2bd28350"
+      "checksum": "4ce3b7af7f9addd84581d80037f3a36c609b15a3eb8a91bb906b7f1de4da4f33"
     },
     {
       "pack_id": "de_ar_phrases",
@@ -40,7 +40,7 @@
     {
       "pack_id": "de_en_A1",
       "name": "German-English Basics",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "languages": [
         "DE",
         "EN"
@@ -49,11 +49,11 @@
         "DE": "https://raw.githubusercontent.com/iven86/language-packs/main/flags/de.png",
         "EN": "https://raw.githubusercontent.com/iven86/language-packs/main/flags/en.png"
       },
-      "size": 51,
-      "fileSize": 7906,
+      "size": 89,
+      "fileSize": 13015,
       "download_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-EN/content.json",
       "metadata_url": "https://raw.githubusercontent.com/iven86/language-packs/refs/heads/main/DE-EN/metadata.json",
-      "checksum": "abd04faf210341896a4ae23081896a60144de2feca7260379c27c3308a4c2393"
+      "checksum": "f2f66a88277840dda57caa322fae0208b4b2b98f45e5dcb1ae7a29c7a2963476"
     },
     {
       "pack_id": "de_en_phrases",
